@@ -27,17 +27,14 @@ LangChain 라이브러리를 활용한 Retrieval-Augmented Generation (RAG) 기�
 - 최신 도메인 정보와 새로운 Q/A 정보를 계속해서 반영하기 위해, CSV 파일 업로드시 AIVLE Domain Vector DB에 추가하는 기능 개발
 <br>
 <br>
+
 ## 기술 스택 및 배포
 - **기술 스택**: Python, LangChain, GPT-3.5 (4.0), AWS EC2
 - **배포**: AWS EC2 인스턴스를 통해 배포
 
 <br>
 <br>
-<br>
-<br>
-<br>
-
-
+<hr/>
 # 결과물
 ###  메인 페이지
 ![Alt text](Image/image-1.png)
