@@ -54,5 +54,4 @@ LangChain 라이브러리를 활용한 Retrieval-Augmented Generation (RAG) 기�
 
 
 ### 배포
-![Alt text](Image/image-6.png)
 ![Alt text](Image/image-7.png)
