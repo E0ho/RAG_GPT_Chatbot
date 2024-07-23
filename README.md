@@ -37,21 +37,35 @@ LangChain 라이브러리를 활용한 Retrieval-Augmented Generation (RAG) 기�
 <hr/>
 
 # 결과물
+
+<br>
+
 ###  메인 페이지
 ![Alt text](Image/image-1.png)
+
+<br>
 
 ### 단발성 Chatbot
 ![Alt text](Image/image-4.png)
 
+<br>
+
 ### 대화형 Chatbot
 ![Alt text](Image/image-3.png)
 
+<br>
+
 ### 커스텀 Chatbot
 ![Alt text](Image/image-5.png)
+![Alt text](Image/image-11.png)
+
+<br>
 
 ### Log 관리
 ![Alt text](Image/image-2.png)
 
+
+<br>
 
 ### 배포
 ![Alt text](Image/image-7.png)
