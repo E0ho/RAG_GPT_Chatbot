@@ -1,7 +1,7 @@
 # AIVLE School RAG Chatbot 프로젝트
 
 ## 소개
-이 프로젝트는 AIVLE School 과정 중 학생들의 반복적인 질문으로 인한 시간 낭비를 줄이고자 \
+이 프로젝트는 AIVLE School 과정 중 기존 Chatbot의 여러 문제들을 해결하고자\
 LangChain 라이브러리를 활용한 Retrieval-Augmented Generation (RAG) 기반 챗봇을 개발한 프로젝트입니다.
 <br>
 <br>
